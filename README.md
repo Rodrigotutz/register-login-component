@@ -3,7 +3,7 @@
 ### 1 - Instale das dependências
 
 ```shell
-    npm installl
+    npm install
 ```
 
 ---
